@@ -1,0 +1,7 @@
+TCA/
+application.properties
+.metadata/
+target/
+.classpath
+.project
+.settings/
